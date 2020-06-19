@@ -1,4 +1,4 @@
 # CalculoIMC
 Aplicativo em Flutter para calcular IMC.
 
-![Rafael](https://avatars2.githubusercontent.com/u/58706785?s=460&u=d029110417bad211e70dd715ea611f5d9b95ada8&v=4)
+![Rafael](blob:https://web.whatsapp.com/d290dcf8-b4bc-405a-abc9-b193d8251c3d)
